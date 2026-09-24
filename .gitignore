@@ -1,6 +1,8 @@
 drafts/
-.vscode/
 src/
+tmp/
+
+.vscode/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
